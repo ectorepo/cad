@@ -1,0 +1,6 @@
+#+title:     Ectorepo: CAD
+#+author:    David Conner
+#+email:     noreply@te.xel.io
+
+A collection of info about open source CAD tools and the repos of code that
+build them.
